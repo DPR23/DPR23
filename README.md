@@ -20,16 +20,16 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on cool projects like **PROJMGMT** and **QUIZINE**
-- 🌱 I’m currently learning **Advanced TypeScript, Python, and modern web development**
-- 💬 Ask me about **Python, Data Structures, or Web Dev**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I love building things from scratch!**
+###ABOUT ME
+-  I’m currently working on cool projects like **PROJMGMT** and **QUIZINE**
+-  I’m currently learning **Advanced TypeScript, Python, and modern web development**
+-  Ask me about **Python, Data Structures, or Web Dev**
+-  How to reach me: **your.email@example.com**
+- Fun fact: **I love building things from scratch!**
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DPR23&show_icons=true&theme=radical&hide_border=true" height="192px" alt="GitHub Stats" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 🏆 Featured Projects
+###  Featured Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
